@@ -214,7 +214,6 @@
     content: "";
     width: 100%;
     height: 1rem;
-
     background-color: #8f8317;
     position: absolute;
     top: -1rem;
@@ -369,7 +368,7 @@
     border-radius: 9px;
   }
 
-/*End - of -  Section 3 */
+/*End-of-Section 3 */
 
 /* Section 4 footer */
 
@@ -400,7 +399,6 @@
   }
   
   .signup-form {
-    /* position: relative; */
     display: flex;
     align-items: center;
   }
@@ -451,7 +449,7 @@
 
 /* responsive */
 
-@media (max-width: 1400px) {
+@media (max-width: 1700px) {
   html {
     font-size: 50%;
   }
