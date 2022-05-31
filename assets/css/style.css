@@ -272,6 +272,7 @@
     align-items: center;
     justify-content: space-evenly;
     margin-top: 10rem;
+    width: 90%;
   }
   
   .gallery-link {
@@ -463,13 +464,13 @@
   }
 
   .gallery-link {
-    width: 40rem;
+    width: 50rem;
     height: 25rem;
     margin: 5rem;
   }
 
   .food-img {
-    width: 100%;
+    width: 120%;
     height: 100%;
   }
 }
