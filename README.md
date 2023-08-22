@@ -2,15 +2,18 @@
 -------------------------
 
 ## Description
-A responsive Food website for restaurant
+A responsive Food website for restaurant. Project made for practice HTML/ CSS and some basic JS. 
 
-The website consists of: <br/>  
-  Drop down menu 
-  4 sections:
-  - 1 Animated img changing at intervals displaying sample of food
-  - 2 Section displaying popular meals with possibilities to order them
-  - 3 Gallery with description on hover effect
-  - 4 Contact section  with footer on the end.
+The website consists of 4 sections: <br/>  
+
+  - 1 Animated img changing at intervals displaying sample of food.
+  - 2 Section displaying popular meals with possibilities to order them.
+  - 3 Gallery with description on hover effect.
+  - 4 Contact section.
+
+Features:
+  - drop down menu
+  - fully responsive
 
 ### Dependencies
 
